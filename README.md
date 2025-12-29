@@ -285,7 +285,7 @@ This project is for **educational purposes**.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**RIYA SINGH**
 
 ---
 
